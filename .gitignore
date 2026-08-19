@@ -1,0 +1,22 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local generation output
+output/
+tmp/
+.cache/
+
+# Local secrets
+.env
+.env.*
+
+# Python / Node leftovers
+__pycache__/
+*.pyc
+node_modules/
