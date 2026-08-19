@@ -1,0 +1,6 @@
+interface:
+  display_name: "Crayon Doodle 配图"
+  short_description: "生成暖米白纸、红蓝手写字与彩铅蜡笔隐喻画的中文知识卡"
+  default_prompt: "Use $crayon-doodle-illustrations 把这篇中文内容拆成一组彩铅涂鸦风知识卡，并直接生成图片。"
+policy:
+  allow_implicit_invocation: true
