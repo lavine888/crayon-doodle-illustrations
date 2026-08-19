@@ -30,7 +30,8 @@ Crayon Doodle Illustrations 是一个面向 Codex / AI Agent 的中文配图 Ski
 
 ### 01
 
-<!-- PASTE SHOWCASE IMAGE 01 HERE -->
+![Uploading ChatGPT Image 2026年8月19日 16_22_07 (1).png…]()
+
 
 ### 02
 
