@@ -29,7 +29,7 @@ Crayon Doodle Illustrations 是一个面向 Codex / AI Agent 的中文配图 Ski
 ### 01
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9424b2b7-c458-4d5d-b9f9-e8c2f94c8c7c" width="480" alt="Showcase 01">
+  <img src="https://github.com/user-attachments/assets/9424b2b7-c458-4d5d-b9f9-e8c2f94c8c7c" width="240" alt="Showcase 01">
 </p>
 
 ### 02
