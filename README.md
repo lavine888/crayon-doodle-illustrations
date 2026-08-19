@@ -24,6 +24,32 @@ Crayon Doodle Illustrations 是一个面向 Codex / AI Agent 的中文配图 Ski
 
 ---
 
+## Showcase
+
+下面预留 5 个高清原图位置。直接在 GitHub 编辑 README，把图片拖到对应位置即可。
+
+### 01
+
+<!-- PASTE SHOWCASE IMAGE 01 HERE -->
+
+### 02
+
+<!-- PASTE SHOWCASE IMAGE 02 HERE -->
+
+### 03
+
+<!-- PASTE SHOWCASE IMAGE 03 HERE -->
+
+### 04
+
+<!-- PASTE SHOWCASE IMAGE 04 HERE -->
+
+### 05
+
+<!-- PASTE SHOWCASE IMAGE 05 HERE -->
+
+---
+
 ## 为什么单独做一个 Skill
 
 很多图像模型能画“手绘”，但很容易漂成四种东西：
