@@ -30,25 +30,27 @@ Crayon Doodle Illustrations 是一个面向 Codex / AI Agent 的中文配图 Ski
 
 ### 01
 
-![Uploading ChatGPT Image 2026年8月19日 16_22_07 (1).png…]()
+<img width="1086" height="1448" alt="ChatGPT Image 2026年8月19日 16_22_07 (1)" src="https://github.com/user-attachments/assets/9424b2b7-c458-4d5d-b9f9-e8c2f94c8c7c" />
 
 
 ### 02
 
-<!-- PASTE SHOWCASE IMAGE 02 HERE -->
+<img width="1086" height="1448" alt="ChatGPT Image 2026年8月19日 16_22_08 (2)" src="https://github.com/user-attachments/assets/a641b853-08c5-4ff9-b362-8ff5a7faf2cf" />
 
 ### 03
 
-<!-- PASTE SHOWCASE IMAGE 03 HERE -->
+
+<img width="1086" height="1448" alt="ChatGPT Image 2026年8月19日 16_22_09 (3)" src="https://github.com/user-attachments/assets/3b8e8084-6156-4b6c-9fac-bbd852aea682" />
 
 ### 04
 
-<!-- PASTE SHOWCASE IMAGE 04 HERE -->
+
+<img width="1086" height="1448" alt="ChatGPT Image 2026年8月19日 16_22_09 (4)" src="https://github.com/user-attachments/assets/3a80d59d-1141-4053-8880-4f22891790b0" />
+
 
 ### 05
 
-<!-- PASTE SHOWCASE IMAGE 05 HERE -->
-
+<img width="1086" height="1448" alt="ChatGPT Image 2026年8月19日 16_22_10 (5)" src="https://github.com/user-attachments/assets/fd88a997-22b8-4eec-8b68-9cb03d5d16bd" />
 ---
 
 ## 为什么单独做一个 Skill
