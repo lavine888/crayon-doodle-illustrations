@@ -26,31 +26,35 @@ Crayon Doodle Illustrations 是一个面向 Codex / AI Agent 的中文配图 Ski
 
 ## Showcase
 
-下面预留 5 个高清原图位置。直接在 GitHub 编辑 README，把图片拖到对应位置即可。
-
 ### 01
 
-<img width="1086" height="1448" alt="ChatGPT Image 2026年8月19日 16_22_07 (1)" src="https://github.com/user-attachments/assets/9424b2b7-c458-4d5d-b9f9-e8c2f94c8c7c" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9424b2b7-c458-4d5d-b9f9-e8c2f94c8c7c" width="480" alt="Showcase 01">
+</p>
 
 ### 02
 
-<img width="1086" height="1448" alt="ChatGPT Image 2026年8月19日 16_22_08 (2)" src="https://github.com/user-attachments/assets/a641b853-08c5-4ff9-b362-8ff5a7faf2cf" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a641b853-08c5-4ff9-b362-8ff5a7faf2cf" width="480" alt="Showcase 02">
+</p>
 
 ### 03
 
-
-<img width="1086" height="1448" alt="ChatGPT Image 2026年8月19日 16_22_09 (3)" src="https://github.com/user-attachments/assets/3b8e8084-6156-4b6c-9fac-bbd852aea682" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b8e8084-6156-4b6c-9fac-bbd852aea682" width="480" alt="Showcase 03">
+</p>
 
 ### 04
 
-
-<img width="1086" height="1448" alt="ChatGPT Image 2026年8月19日 16_22_09 (4)" src="https://github.com/user-attachments/assets/3a80d59d-1141-4053-8880-4f22891790b0" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a80d59d-1141-4053-8880-4f22891790b0" width="480" alt="Showcase 04">
+</p>
 
 ### 05
 
-<img width="1086" height="1448" alt="ChatGPT Image 2026年8月19日 16_22_10 (5)" src="https://github.com/user-attachments/assets/fd88a997-22b8-4eec-8b68-9cb03d5d16bd" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd88a997-22b8-4eec-8b68-9cb03d5d16bd" width="480" alt="Showcase 05">
+</p>
 ---
 
 ## 为什么单独做一个 Skill
